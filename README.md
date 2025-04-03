@@ -1,2 +1,14 @@
 # TD-Python-Assignment1
-Basic Python Concepts
+## Basic Mathematical Operations (basic.py)
+Takes two numbers as inputs and performs basic mathematical operations on these numbers
+-	Addition
+-	Subtraction
+-	Multiplication
+-	Division
+
+And displays the results of each operations
+
+## Personalized Greeting
+
+Takes users first name and last name, concatentates the both names into full name and prints personalized message
+
