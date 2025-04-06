@@ -8,7 +8,7 @@ Takes two numbers as inputs and performs basic mathematical operations on these 
 
 And displays the results of each operations
 
-## Personalized Greeting
+## Personalized Greeting (greeting.py)
 
-Takes users first name and last name, concatentates the both names into full name and prints personalized message
+Takes users first name and last name, concatentates the both names into full name and prints the personalized message
 
